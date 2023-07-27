@@ -73,9 +73,9 @@
     <div class="absolute top-[350%] left-0 max-md:top-[200%] max-sm:top-[150%]">
       <img src="./assets/img/angel-l.png" alt="angel" class="max-md:w-[40%] max-sm:w-[30%] md:w-[45%] lg:w-[100%]">
     </div>
-    <div class="absolute !top-[270%] !right-0.5 max-md:top-[200%] max-sm:top-[180%] w-fit">
-      <img src="./assets/img/angel-r.png" alt="angel" class="max-md:w-[40%] max-sm:w-[30%] w-[80%]">
-    </div>
+<!--    <div class="absolute !top-[270%] !right-0 max-md:top-[200%] max-sm:top-[180%] w-fit">-->
+<!--      <img src="./assets/img/angel-r.png" alt="angel" class="max-md:w-[40%] max-sm:w-[30%] w-[80%]">-->
+<!--    </div>-->
   </div>
 </template>
 
