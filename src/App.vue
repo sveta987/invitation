@@ -74,7 +74,7 @@
       <img src="./assets/img/angel-l.png" alt="angel" class="max-md:w-[40%] max-sm:w-[30%] md:w-[45%] lg:w-[100%]">
     </div>
     <div class="absolute top-[270%] !left-[100%] max-md:top-[180%] max-sm:top-[150%] w-fit">
-      <img src="./assets/img/angel-r.png" alt="angel" class="max-md:h-[40%] max-sm:h-[30%] h-[80%]">
+      <img src="./assets/img/angel-r.png" alt="angel" class="max-md:w-[40%] max-sm:w-[30%] w-[80%]">
     </div>
   </div>
 </template>
